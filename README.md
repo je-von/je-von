@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jevon</h1>
-<h3 align="center">a fullstack web developer, a photographer, and a student.</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=je-von&label=Profile%20views&color=0e75b6&style=flat" alt="je-von" /> </p>
 
-- 👨‍💻 All of my projects are available at [jevonlevin.com](http://jevonlevin.com)
+👨‍💻 All of my projects are available at [jevonlevin.com](http://jevonlevin.com)
 
-- 📫 You can reach me via email: **jevon.levin@gmail.com**
+📫 You can reach me via email: **jevon.levin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
