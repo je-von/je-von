@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Jevon</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&color=818CF8&lines=Hi+%F0%9F%91%8B%2C+I'm+Jevon!)](https://git.io/typing-svg)
+---
 
 [![](https://visitcount.itsvg.in/api?id=je-von&icon=0&color=9)](https://visitcount.itsvg.in)
 
