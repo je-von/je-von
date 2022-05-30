@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&color=A9A9A9&lines=Hi+%F0%9F%91%8B!;I'm+Jevon!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&color=A9A9A9&lines=Hi+%F0%9F%91%8B!;I'm+Jevon!)](https://git.io/typing-svg)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=je-von&icon=0&color=9)](https://visitcount.itsvg.in)
