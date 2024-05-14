@@ -5,4 +5,4 @@
 
 - 📫 You can reach me via email: **<a href="mailto:me@jevonlevin.com">me@jevonlevin.com<a/>**
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=je-von&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=adventure-of-lorenzo&langs_count=8)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=je-von&include_all_commits=true&count_private=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
